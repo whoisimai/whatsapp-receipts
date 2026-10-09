@@ -1,0 +1,19 @@
+{
+  "name": "whatsapp-receipts",
+  "version": "1.0.0",
+  "description": "a whatsapp application that only turns on read receipts of one application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whoisimai/whatsapp-receipts.git"
+  },
+  "author": "Tlhogi Matlhabe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whoisimai/whatsapp-receipts/issues"
+  },
+  "homepage": "https://github.com/whoisimai/whatsapp-receipts#readme"
+}
