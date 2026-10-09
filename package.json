@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/whoisimai/whatsapp-receipts/issues"
   },
-  "homepage": "https://github.com/whoisimai/whatsapp-receipts#readme"
+  "homepage": "https://github.com/whoisimai/whatsapp-receipts#readme",
+  "type": "module"
 }
